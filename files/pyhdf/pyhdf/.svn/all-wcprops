@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/pysclint/code/!svn/ver/155/trunk/pyhdf/pyhdf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/pysclint/code/!svn/ver/118/trunk/pyhdf/pyhdf/Makefile
+END
+SD.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/pysclint/code/!svn/ver/120/trunk/pyhdf/pyhdf/SD.py
+END
+sdext.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/pysclint/code/!svn/ver/3/trunk/pyhdf/pyhdf/sdext.py
+END
+VS.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/pysclint/code/!svn/ver/49/trunk/pyhdf/pyhdf/VS.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/pysclint/code/!svn/ver/153/trunk/pyhdf/pyhdf/error.py
+END
+HC.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/pysclint/code/!svn/ver/49/trunk/pyhdf/pyhdf/HC.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/pysclint/code/!svn/ver/8/trunk/pyhdf/pyhdf/__init__.py
+END
+HDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/pysclint/code/!svn/ver/49/trunk/pyhdf/pyhdf/HDF.py
+END
+hdfext.i
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/pysclint/code/!svn/ver/154/trunk/pyhdf/pyhdf/hdfext.i
+END
+hdfext.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/pysclint/code/!svn/ver/155/trunk/pyhdf/pyhdf/hdfext.py
+END
+V.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/pysclint/code/!svn/ver/49/trunk/pyhdf/pyhdf/V.py
+END
+hdfext_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/pysclint/code/!svn/ver/155/trunk/pyhdf/pyhdf/hdfext_wrap.c
+END

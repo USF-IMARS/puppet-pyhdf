@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/pysclint/code/!svn/ver/121/trunk/pyhdf/examples/vgroup
+END
+README_vgroup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/pysclint/code/!svn/ver/121/trunk/pyhdf/examples/vgroup/README_vgroup.txt
+END
+vgwrite.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/pysclint/code/!svn/ver/20/trunk/pyhdf/examples/vgroup/vgwrite.py
+END
+vgread.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/pysclint/code/!svn/ver/20/trunk/pyhdf/examples/vgroup/vgread.py
+END
